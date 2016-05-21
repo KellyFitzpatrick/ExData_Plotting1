@@ -1,5 +1,5 @@
 
-#Plot 2 for Coursera Course
+#Plot 3 for Coursera Course
 # I left the code that I was working with and used # to footnote my progress
 
 library(ggplot2)
